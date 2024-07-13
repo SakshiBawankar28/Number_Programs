@@ -1,3 +1,8 @@
 Q.1) Write a program to Print 1 to N numbers? --> Print_1_N_Number Class
 
 Q.2) Write a program to Print REVERSE of N to 1 numbers? --> Print_Reverse_N_1_Number
+
+Q.3) Write a program to check given number is EVEN or ODD?
+ -->  Check_Even_Odd_Number
+
+Q.4) Write a program to display sum of 1 to N numbers? --> Sum_Of_N_Number
