@@ -1,4 +1,4 @@
-//Write a program to check given number is EVEN or ODD?
+//Write a program to display sum of 1 to N numbers?
 
 import java.util.Scanner;
 
