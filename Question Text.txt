@@ -10,4 +10,8 @@ Q.5) Write a program to check whether the given number is PRIME or not? --> Chec
 
 Q.6) Write a program to display PRIME NUMBERS from 1 to n? --> Print_1_N_Prime_Number
 
+Q.7) Write a program to find SUM OF Even and Odd numbers? --> Sum_Of_Even_Odd_Number
+
+Q.8) Write a program to find SUM OF PRIME numbers? --> Sum_Of_Prime_Number
+
 
