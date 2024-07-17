@@ -14,4 +14,8 @@ Q.7) Write a program to find SUM OF Even and Odd numbers? --> Sum_Of_Even_Odd_Nu
 
 Q.8) Write a program to find SUM OF PRIME numbers? --> Sum_Of_Prime_Number
 
+Q.9) Write a program to display MULTIPLICATION table? --> Mul_Table_Of_1_N_Number
+
+Q.10) Write a program to display MULTIPLICATION TABLES? --> Mul_Table_Of_Number_Range
+
 
