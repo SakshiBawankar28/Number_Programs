@@ -18,4 +18,8 @@ Q.9) Write a program to display MULTIPLICATION table? --> Mul_Table_Of_1_N_Numbe
 
 Q.10) Write a program to display MULTIPLICATION TABLES? --> Mul_Table_Of_Number_Range
 
+Q.11) Write program weather the number is PERFECT NUMBER or not? -->PERFECT_NUMBER_OR_NOT
+Def:
+perfect number, a positive integer that is equal to the sum of its proper divisors. The smallest perfect number is 6, which is the sum of 1, 2, and 3. Other perfect numbers are 28, 496, and 8,128. 		 
+
 
