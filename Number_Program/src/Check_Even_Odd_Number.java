@@ -9,13 +9,13 @@ public class Check_Even_Odd_Number {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the number : ");
 		int num = sc.nextInt();
-		int sum = 0;
 		
-		for(int i=1; i<=num; i++)
+		if(num % 2 == 0)
 		{
-			sum += i;
+			System.out.println(num + " is an even number");
 		}
-		System.out.print("The sum of 1 to "+ num + " is : "+ sum);
+		else
+			System.out.println(num + " is an odd number");
 
 	}
 

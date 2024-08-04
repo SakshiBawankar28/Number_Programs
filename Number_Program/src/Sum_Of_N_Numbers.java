@@ -1,21 +1,22 @@
+//Write a program to check given number is EVEN or ODD?
 //Write a program to display sum of 1 to N numbers?
 
 import java.util.Scanner;
 
-public class Sum_Of_N_Number {
+public class  Sum_Of_N_Numbers{
 
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the number : ");
 		int num = sc.nextInt();
+		int sum = 0;
 		
-		if(num % 2 == 0)
+		for(int i=1; i<=num; i++)
 		{
-			System.out.println(num + " is an even number");
+			sum += i;
 		}
-		else
-			System.out.println(num + " is an odd number");
+		System.out.print("The sum of 1 to "+ num + " is : "+ sum);
 
 	}
 
